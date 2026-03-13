@@ -8,7 +8,7 @@
 
 ## 🌐 Live Demo
 
-Deploy free at → [share.streamlit.io](https://share.streamlit.io)
+Deploy free at → [[share.streamlit.io](https://share.streamlit.io)](https://frauddetection-my9rbilpzvperfcsi5artn.streamlit.app/)
 
 ---
 
